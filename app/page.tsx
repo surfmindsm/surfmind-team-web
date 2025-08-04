@@ -420,7 +420,7 @@ export default function SurfmindPortfolio() {
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-6">Ready to Start Your Project?</h2>
             <p className="text-xl mb-8 opacity-90 max-w-2xl mx-auto">
-              Let's discuss your ideas and turn them into reality. We're here to help you build something amazing.
+              Let&#39;s discuss your ideas and turn them into reality. We&#39;re here to help you build something amazing.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-12">
